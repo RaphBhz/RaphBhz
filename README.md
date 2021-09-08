@@ -1,12 +1,9 @@
 ### Hi there 👋, I'm Raphaël
 
 #### About me
- :books: I'm studying computer science at the University of Paris.
 
-
-:mag_right: I'm also currently looking for a company regarding my apprenticeship curriculum from October 2021 to July 2022.
-
-
+- :books: I'm studying computer science at the University of Paris.
+- :mag_right: I'm also currently looking for a company regarding my apprenticeship curriculum from October 2021 to July 2022.
 - 🔭 I’m trying to work on making a decent Portfolio 
 - 🌱 I’m currently learning JavaScript 
 - 📫 You can reach me at: raphael.bouchez@etu.u-paris.fr 
