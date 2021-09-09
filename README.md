@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Raphaël
 
+![Banner](https://github.com/RaphBhz/RaphBhz/blob/main/bannergh.png)
+
 #### About me
 
 - :books: I'm studying computer science at the University of Paris.
