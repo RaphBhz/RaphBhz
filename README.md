@@ -4,11 +4,11 @@
 
 #### About me
 
-- :books: I'm studying computer science at the University of Paris.
-- :mag_right: I'm also currently looking for a company regarding my apprenticeship curriculum from October 2021 to July 2022.
-- 🔭 I’m trying to work on making a decent Portfolio 
-- 🌱 I’m currently learning JavaScript 
-- 📫 You can reach me at: raphael.bouchez@etu.u-paris.fr 
+- :books: I'm a future student at the ESIEE Paris engineering school in Computer Science and Software Developpement.
+- :mag_right: I'm also currently looking for a company regarding my apprenticeship curriculum from September 2022 to September 2025.
+- 🔭 I’m working on the creation of a web multiplayer game
+- 🌱 I’m currently learning WebGL
+- 📫 You can reach me at: raphael.bouchez@edu.esiee.fr 
 - ⚡ Fun fact: I am actually a fan of esports 
 
 #### Stuff I know
