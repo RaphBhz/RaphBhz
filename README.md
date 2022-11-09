@@ -2,7 +2,7 @@
 
 #### Studying at ESIEE Paris.
 https://www.esiee.fr/en
-#### Working at Safran Electronics & Defense.
+#### Working at Safran.
 https://www.safran-group.com
 
 ## Some links
